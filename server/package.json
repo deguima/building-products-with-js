@@ -12,5 +12,8 @@
     "experts"
   ],
   "author": "MIT",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.17.0"
+  }
 }
